@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Automatically create SKUs for products that are manually added via admin or imported via CSV of XML files for admin. This is ideal for stores that do not have a fixed SKU coming in from external ERP systems or their suppliers. The extension works on both Enterprise and Community Editions.

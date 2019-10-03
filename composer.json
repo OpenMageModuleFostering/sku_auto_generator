@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/SKU_Auto_Generator",
+    "name": "openmage-module-fostering\/sku_auto_generator",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Automatically create SKUs for products that are manually added via admin or imported via CSV of XML files for admin. This is ideal for stores that do not have a fixed SKU coming in from external ERP systems or their suppliers. The extension works on both Enterprise and Community Editions.",
     "authors": [
